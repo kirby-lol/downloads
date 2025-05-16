@@ -192,8 +192,8 @@
 // @match         *://link.rbscripts.net/*
 // @homepageURL   https://www.krakenbypasser.org/
 // @icon          https://i.imgur.com/Of0j8SW.png
-// @downloadURL   https://raw.githubusercontent.com/kirby-lol/downloads/main/userscript.js
-// @updateURL     https://github.com/kirby-lol/downloads/releases/download/downloads/userscript.js
+// @downloadURL   https://raw.githubusercontent.com/kirby-lol/downloads/refs/heads/main/userscript%2Cjs
+// @updateURL     https://raw.githubusercontent.com/kirby-lol/downloads/refs/heads/main/userscript%2Cjs
 // @run-at document-idle
 // ==/UserScript==
 
